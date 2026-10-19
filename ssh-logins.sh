@@ -1,7 +1,5 @@
 #!bin/bash
 
-#!/bin/bash
-
 echo "=== SSH LOGIN LOGS TODAY ==="
 
 echo ""
