@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "syntax on
+colorscheme industry
 set number
 set cindent
 set expandtab
